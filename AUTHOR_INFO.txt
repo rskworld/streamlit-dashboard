@@ -1,0 +1,62 @@
+================================================================================
+STREAMLIT ANALYTICS DASHBOARD - AUTHOR INFORMATION
+================================================================================
+
+Author: RSK World
+Website: https://rskworld.in
+Email: help@rskworld.in
+Phone: +91 93305 39277
+
+================================================================================
+PROJECT DETAILS
+================================================================================
+
+Project ID: 2
+Title: Streamlit Analytics Dashboard
+Category: Interactive Dashboards
+Difficulty: Beginner
+
+Description:
+Interactive analytics dashboard built with Streamlit for data exploration,
+visualization, and real-time analysis with user-friendly interface.
+
+Full Description:
+This project creates a comprehensive analytics dashboard using Streamlit framework.
+It provides interactive widgets, real-time data filtering, multiple visualization
+types, and user-friendly interface for data exploration. Perfect for building
+quick prototypes and data analysis applications.
+
+Technologies:
+- Python
+- Streamlit
+- Plotly
+- Pandas
+- NumPy
+- Jupyter Notebook (optional)
+
+Features:
+- Interactive widgets and filters
+- Real-time data exploration
+- Multiple visualization types
+- User-friendly interface
+- Easy deployment
+
+================================================================================
+CONTACT INFORMATION
+================================================================================
+
+For questions, support, or contributions:
+- Email: help@rskworld.in
+- Website: https://rskworld.in
+- Phone: +91 93305 39277
+
+================================================================================
+NOTES
+================================================================================
+
+All files in this project contain author information in comments or headers.
+This ensures proper attribution and makes it easy to contact the author for
+support or questions.
+
+================================================================================
+
