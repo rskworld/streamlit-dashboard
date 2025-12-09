@@ -1,6 +1,6 @@
 # Release Notes - Streamlit Analytics Dashboard v1.0.0
 
-**Release Date:** December 9, 2024  
+**Release Date:** December 9, 2025 
 **Author:** RSK World  
 **Website:** [https://rskworld.in](https://rskworld.in)  
 **Email:** help@rskworld.in  
