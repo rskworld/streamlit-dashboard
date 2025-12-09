@@ -34,7 +34,7 @@ ENV/
 *~
 
 # Streamlit
-.streamlit/
+# .streamlit/  # Commented out - keeping config.toml for repository
 
 # Data files (optional - uncomment if you don't want to track data files)
 # *.csv
